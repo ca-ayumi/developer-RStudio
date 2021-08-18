@@ -1,0 +1,49 @@
+ExpDes-package          Experimental Designs package
+ccboot                  Multiple comparison: Bootstrap
+crd                     One factor Completely Randomized Design
+duncan                  Multiple comparison: Duncan test
+est21Ad                 Stink bugs in corn: additional treatment
+ex                      Vines: Split-Plot in Randomized Blocks Design
+ex1                     Yacon: CRD
+ex2                     Food bars: RBD
+ex3                     Forage: LSD
+ex4                     Composting: Doble Factorial scheme in CRD
+ex5                     Food bars: Double Factorial scheme in RBD
+ex6                     Fictional data 1
+ex7                     Height of corn plants 21 days after emergence.
+ex8                     Composting: double factorial scheme plus one
+                        additional treatment in CRD.
+ex9                     Vegetated: Split-plot in CRD
+fat2.ad.crd             Double factorial scheme plus one additional
+                        treatment in CRD
+fat2.ad.rbd             Double factorial scheme plus one additional
+                        treatment in RBD
+fat2.crd                Double factorial scheme in CRD
+fat2.rbd                Double factorial scheme in RBD
+fat3.ad.crd             Triple factorial scheme plus an additional
+                        treatment in CRD
+fat3.ad.rbd             Triple factorial scheme plus an additional
+                        treatment in RBD
+fat3.crd                Triple factorial scheme in CRD
+fat3.rbd                Triple factorial scheme in RBD
+ginv                    Generalized inverse
+lastC                   Setting the last character of a chain
+latsd                   Latin Square Design
+lsd                     Multiple comparison: Least Significant
+                        Difference test
+lsdb                    Multiple comparison: Bonferroni's Least
+                        Significant Difference test
+order.group             Ordering the treatments according to the
+                        multiple comparison
+order.stat.SNK          Grouping the treatments averages in a
+                        comparison with a minimum value
+rbd                     Randomized Blocks Design
+reg.poly                Polinomial Regression
+respAd                  Fictional data: additional treatment
+scottknott              Multiple comparison: Scott-Knott test
+secaAd                  Composting: additional treatment
+snk                     Multiple comparison: Student-Newman-Keuls test
+split2.crd              Split-plots in CRD
+split2.rbd              Split-plots in RBD
+tapply.stat             Statistics of data grouped by factors
+tukey                   Multiple comparison: Tukey's test
